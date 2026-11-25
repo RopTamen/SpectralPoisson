@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SpectralPoisson/SpectralPoisson.vcxproj" Id="4a68c79d-63e5-47c8-acc0-b66297208a4d" />
+</Solution>
